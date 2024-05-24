@@ -1,3 +1,4 @@
+Hello recruiter, Few projects in this github are not mentioned in my resume. 
 - 👋 Hi, I’m @AaMiit
 - 👀 I’m interested in to learn new things.
 - 🌱 I’m currently learning Wordpress
